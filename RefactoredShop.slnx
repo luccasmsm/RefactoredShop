@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="RefactoredShop.Tests/RefactoredShop.Tests.csproj" />
+  <Project Path="RefactoredShop/RefactoredShop.csproj" />
+</Solution>
